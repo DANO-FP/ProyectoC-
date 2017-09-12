@@ -1,0 +1,110 @@
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\Lucia\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\Lucia\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\Lucia\Obligatorio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\Lucia\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\Lucia\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\Lucia\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\Lucia\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\Lucia\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\Lucia\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\Obligatorio\Obligatorio Lu\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio\Obligatorio Lu\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+G:\Obligatorio\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\Obligatorio\Obligatorio Lu\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio Dano\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\Obligatorio Dano\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio Dano\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\Obligatorio Dano\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\Lucia\BIOS\2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\Lucia\BIOS\2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\Lucia\BIOS\2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\Lucia\BIOS\2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

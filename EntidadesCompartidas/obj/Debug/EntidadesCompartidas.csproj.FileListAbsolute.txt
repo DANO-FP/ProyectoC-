@@ -1,0 +1,4 @@
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

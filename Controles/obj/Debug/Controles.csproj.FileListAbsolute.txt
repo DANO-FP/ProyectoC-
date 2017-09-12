@@ -1,0 +1,84 @@
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\bin\Debug\Controles.dll
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\bin\Debug\Controles.pdb
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\obj\Debug\Controles.dll
+C:\Users\Y\Desktop\ObligatorioLINQ\Controles\obj\Debug\Controles.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.pdb
+E:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.dll
+E:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.pdb
+E:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+E:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.dll
+E:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.pdb
+F:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.dll
+F:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\Controles.pdb
+F:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\Controles\bin\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.dll
+F:\ObligatorioLINQ_Respaldo\Controles\obj\Debug\Controles.pdb
+G:\ObligatorioULTIMO\Controles\bin\Debug\Controles.dll
+G:\ObligatorioULTIMO\Controles\bin\Debug\Controles.pdb
+G:\ObligatorioULTIMO\Controles\bin\Debug\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\Controles\bin\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+G:\ObligatorioULTIMO\Controles\obj\Debug\Controles.dll
+G:\ObligatorioULTIMO\Controles\obj\Debug\Controles.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\Controles.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\Controles.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\Controles.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Controles\obj\Debug\Controles.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\Controles.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\Controles.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\Controles.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\Controles.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\Controles.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Controles\obj\Debug\Controles.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\bin\Debug\Controles.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\bin\Debug\Controles.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.pdb

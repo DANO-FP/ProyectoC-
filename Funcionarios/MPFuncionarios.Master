@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MPFuncionarios.master.cs" Inherits="Funcionarios.MPFuncionarios" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Bienvenido a BiosRealState</title>
+    <link href="StyleFuncionario.css" rel="Stylesheet"/>
+    <script type="text/jscript" src="jquery-3.2.1.min.js" ></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".Content2").fadeIn(2000);
+        });
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table style="width:100%;">
+        <tr>
+            <td>
+        
+            <asp:Menu ID="Menu1" class="Button" runat="server" StaticSubMenuIndent="10px" 
+                    BackColor="SpringGreen" CssClass="Menu" DynamicHorizontalOffset="2" 
+                    Font-Names="Arial Black" Font-Size="0.8em" ForeColor="Black">
+                <DynamicHoverStyle BackColor="#0B6121" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="SpringGreen" />
+                <DynamicSelectedStyle BackColor="#0B6121" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Inicio.aspx" Text="Menu Principal" 
+                        Value="Menu Principal">
+                        <asp:MenuItem NavigateUrl="~/ABM_LocalComercial.aspx" 
+                            Text="Locales Comerciales" Value="Locales Comerciales"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ABM_Apartamento.aspx" Text="Apartamentos" 
+                            Value="Apartamentos"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ABM_Casas.aspx" Text="Casas" Value="Casas">
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ABM_Funcionarios.aspx" Text="Funcionarios" 
+                            Value="Funcionarios"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ABMZona.aspx" Text="Zona" Value="Zona">
+                        </asp:MenuItem>
+                    </asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#0B6121" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+            </asp:Menu>
+            </td>
+            <td>
+                <asp:Label ID="LblUsuario" runat="server" CssClass="Names"></asp:Label>
+            </td>
+            <td>
+            <asp:Button ID="btnDeslog" runat="server" CssClass="Button" Text="Salir" 
+                    onclick="btnDeslog_Click"  />
+        
+            </td>
+        </tr>
+        </table>
+    <p>
+        &nbsp;</p>
+        <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

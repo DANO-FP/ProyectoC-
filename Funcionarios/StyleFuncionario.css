@@ -1,0 +1,96 @@
+﻿html
+{
+    width:100%;
+    margin:0;
+    }
+body 
+{
+    height:100%;
+    background-color:#2E8B57;
+    margin-left: 10%;
+    margin-right:10%;
+    text-align:center;
+    font-family:Arial Baltic;
+    font-size:20px;
+}
+.Button
+{
+    text-align:center;
+    padding:5px;
+    min-width:200px;
+    background-color:#00FF7F;
+    border-radius: 10px;
+    border-style:none;
+    font-family:Arial Black;
+    font-size:20px;
+    }
+.Title
+{
+    font-size:40px;
+    font-family:Georgia;
+    color:#81F781;
+    }
+.Names
+{
+    text-align:right;
+    color: #81F781;
+    font-size:20;
+    font-family: Arial Black;
+    }
+.Tbox
+{
+    border-radius:10px;
+    min-width:220px;
+    font-size:15px;
+    text-align:center;
+    font-family:Arial Black;
+    border-style:none;
+    }
+ .Menu
+    {
+     font-family:Georgia;
+     font-size:30px;
+     }
+ #PrincipalPage
+ {
+     margin-left:20%;
+     margin-right:20%;
+     font-family:Arial Baltic;
+     font-size:200%;
+     min-width:200px;
+     color:#81F781;
+     font-weight:900;
+     text-shadow:5px 2px black;
+     border-color:Black;
+     border-style:solid;
+     border-width:15px;
+     background-color:#0B6121;
+     border-radius:50px;
+     display:none;
+         }
+  #Logo
+  {
+      width:100%;
+      max-width:450px;
+      }       
+  #Logo1
+  {
+      width:100%;
+      max-width:450px;
+      }  
+ /*.Content2{display:none;}*/
+ .NamesDef
+{
+    text-align:center;
+    color: #81F781;
+    font-size:20;
+    font-family: Arial Black;
+    }
+
+.lblError
+{
+    text-align:right;
+    color: blue;
+    font-size:20;
+    font-family: Arial Black;   
+    }

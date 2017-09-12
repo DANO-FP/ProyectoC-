@@ -1,0 +1,273 @@
+C:\Users\DanoFKU\Desktop\Obligatorio\Clientes\bin\Clientes.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Clientes\bin\Clientes.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\Clientes\obj\Debug\Clientes.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+D:\Documentos\Bios\2017\Obligatorio\Clientes\bin\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio\Clientes\bin\Clientes.pdb
+D:\Documentos\Bios\2017\Obligatorio\Clientes\obj\Debug\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Clientes\bin\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Clientes\bin\Clientes.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Clientes\obj\Debug\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Clientes\obj\Debug\Clientes.pdb
+F:\Lucia\Obligatorio\Clientes\bin\Clientes.dll
+F:\Lucia\Obligatorio\Clientes\bin\Clientes.pdb
+F:\Lucia\Obligatorio\Clientes\obj\Debug\ResolveAssemblyReference.cache
+F:\Lucia\Obligatorio\Clientes\obj\Debug\Clientes.dll
+F:\Lucia\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+G:\Lucia\Obligatorio\Clientes\bin\Clientes.dll
+G:\Lucia\Obligatorio\Clientes\bin\Clientes.pdb
+G:\Lucia\Obligatorio\Clientes\obj\Debug\Clientes.dll
+G:\Lucia\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Clientes\bin\Clientes.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Clientes\bin\Clientes.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Clientes\obj\Debug\Clientes.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Clientes\obj\Debug\Clientes.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Clientes\bin\Clientes.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Clientes\bin\Clientes.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Clientes\obj\Debug\Clientes.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Clientes\obj\Debug\Clientes.pdb
+G:\Obligatorio\Obligatorio Lu\Clientes\bin\Clientes.dll
+G:\Obligatorio\Obligatorio Lu\Clientes\bin\Clientes.pdb
+G:\Obligatorio\Obligatorio Lu\Clientes\obj\Debug\ResolveAssemblyReference.cache
+G:\Obligatorio\Obligatorio Lu\Clientes\obj\Debug\Clientes.dll
+G:\Obligatorio\Obligatorio Lu\Clientes\obj\Debug\Clientes.pdb
+G:\Obligatorio Dano\Clientes\bin\Clientes.dll
+G:\Obligatorio Dano\Clientes\bin\Clientes.pdb
+G:\Obligatorio Dano\Clientes\obj\Debug\Clientes.dll
+G:\Obligatorio Dano\Clientes\obj\Debug\Clientes.pdb
+G:\Lucia\2017\Obligatorio\Clientes\bin\Clientes.dll
+G:\Lucia\2017\Obligatorio\Clientes\bin\Clientes.pdb
+G:\Lucia\2017\Obligatorio\Clientes\bin\EntidadesCompartidas.dll
+G:\Lucia\2017\Obligatorio\Clientes\bin\Logica.dll
+G:\Lucia\2017\Obligatorio\Clientes\bin\Persistencia.dll
+G:\Lucia\2017\Obligatorio\Clientes\bin\EntidadesCompartidas.pdb
+G:\Lucia\2017\Obligatorio\Clientes\bin\Logica.pdb
+G:\Lucia\2017\Obligatorio\Clientes\bin\Persistencia.pdb
+G:\Lucia\2017\Obligatorio\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+G:\Lucia\2017\Obligatorio\Clientes\obj\Debug\Clientes.dll
+G:\Lucia\2017\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Clientes.dll
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Clientes.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\EntidadesCompartidas.dll
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Logica.dll
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Persistencia.dll
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\EntidadesCompartidas.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Logica.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\bin\Persistencia.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Clientes\obj\Debug\Clientes.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Clientes.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Clientes.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Logica.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Logica.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\obj\Debug\Clientes.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Clientes\obj\Debug\Clientes.pdb
+F:\ObligatorioLINQ\Clientes\bin\Clientes.dll
+F:\ObligatorioLINQ\Clientes\bin\Clientes.pdb
+F:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.dll
+F:\ObligatorioLINQ\Clientes\bin\Logica.dll
+F:\ObligatorioLINQ\Clientes\bin\Persistencia.dll
+F:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ\Clientes\bin\Logica.pdb
+F:\ObligatorioLINQ\Clientes\bin\Persistencia.pdb
+F:\ObligatorioLINQ\Clientes\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.dll
+F:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.pdb
+D:\ObligatorioLINQ\Clientes\bin\Clientes.dll
+D:\ObligatorioLINQ\Clientes\bin\Clientes.pdb
+D:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.dll
+D:\ObligatorioLINQ\Clientes\bin\Logica.dll
+D:\ObligatorioLINQ\Clientes\bin\Persistencia.dll
+D:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.pdb
+D:\ObligatorioLINQ\Clientes\bin\Logica.pdb
+D:\ObligatorioLINQ\Clientes\bin\Persistencia.pdb
+D:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+D:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.dll
+D:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.pdb
+G:\ObligatorioLINQ\Clientes\bin\Clientes.dll
+G:\ObligatorioLINQ\Clientes\bin\Clientes.pdb
+G:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.dll
+G:\ObligatorioLINQ\Clientes\bin\Logica.dll
+G:\ObligatorioLINQ\Clientes\bin\Persistencia.dll
+G:\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.pdb
+G:\ObligatorioLINQ\Clientes\bin\Logica.pdb
+G:\ObligatorioLINQ\Clientes\bin\Persistencia.pdb
+G:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+G:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.dll
+G:\ObligatorioLINQ\Clientes\obj\Debug\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\obj\Debug\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\obj\Debug\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Clientes\bin\Controles.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.pdb
+E:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+E:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.dll
+E:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Clientes.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Controles.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Logica.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\bin\Persistencia.pdb
+F:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.dll
+F:\ObligatorioLINQ_Respaldo\Clientes\obj\Debug\Clientes.pdb
+G:\ObligatorioULTIMO\Clientes\bin\Clientes.dll
+G:\ObligatorioULTIMO\Clientes\bin\Clientes.pdb
+G:\ObligatorioULTIMO\Clientes\bin\Controles.dll
+G:\ObligatorioULTIMO\Clientes\bin\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\Clientes\bin\Logica.dll
+G:\ObligatorioULTIMO\Clientes\bin\Persistencia.dll
+G:\ObligatorioULTIMO\Clientes\bin\Controles.pdb
+G:\ObligatorioULTIMO\Clientes\bin\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\Clientes\bin\Logica.pdb
+G:\ObligatorioULTIMO\Clientes\bin\Persistencia.pdb
+G:\ObligatorioULTIMO\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+G:\ObligatorioULTIMO\Clientes\obj\Debug\Clientes.dll
+G:\ObligatorioULTIMO\Clientes\obj\Debug\Clientes.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Clientes.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Clientes.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Controles.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Logica.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Persistencia.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Controles.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Logica.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Persistencia.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Clientes.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Clientes.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Logica.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Controles.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Logica.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Clientes\obj\Debug\Clientes.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Clientes.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Clientes.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Controles.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Logica.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Controles.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Logica.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\Clientes.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\Clientes.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Clientes.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Clientes.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Controles.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Logica.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Persistencia.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Controles.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Logica.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\bin\Persistencia.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\Clientes.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Clientes\obj\Debug\Clientes.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Clientes.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Clientes.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Controles.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Controles.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\obj\Debug\Clientes.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Clientes.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Clientes.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Controles.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Logica.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Persistencia.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Controles.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Logica.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\bin\Persistencia.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Clientes\obj\Debug\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Clientes.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Controles.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Logica.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Controles.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Logica.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.pdb

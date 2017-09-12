@@ -1,0 +1,301 @@
+C:\Users\DanoFKU\Desktop\Obligatorio\Funcionarios\bin\Funcionarios.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Logica.dll
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Logica.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\bin\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Funcionarios.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Logica.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Logica.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\bin\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\obj\Debug\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Funcionarios\obj\Debug\Funcionarios.pdb
+F:\Lucia\Obligatorio\Funcionarios\bin\Funcionarios.dll
+F:\Lucia\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+F:\Lucia\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+F:\Lucia\Obligatorio\Funcionarios\bin\Logica.dll
+F:\Lucia\Obligatorio\Funcionarios\bin\Persistencia.dll
+F:\Lucia\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+F:\Lucia\Obligatorio\Funcionarios\bin\Logica.pdb
+F:\Lucia\Obligatorio\Funcionarios\bin\Persistencia.pdb
+F:\Lucia\Obligatorio\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+F:\Lucia\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+F:\Lucia\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Lucia\Obligatorio\Funcionarios\bin\Funcionarios.dll
+G:\Lucia\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+G:\Lucia\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+G:\Lucia\Obligatorio\Funcionarios\bin\Logica.dll
+G:\Lucia\Obligatorio\Funcionarios\bin\Persistencia.dll
+G:\Lucia\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\Lucia\Obligatorio\Funcionarios\bin\Logica.pdb
+G:\Lucia\Obligatorio\Funcionarios\bin\Persistencia.pdb
+G:\Lucia\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\Lucia\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+G:\Lucia\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Funcionarios.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Funcionarios.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Logica.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Persistencia.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Logica.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\bin\Persistencia.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Funcionarios.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Funcionarios.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Logica.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Persistencia.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Logica.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\bin\Persistencia.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+G:\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.dll
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Funcionarios.dll
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Funcionarios.pdb
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.dll
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Logica.dll
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Persistencia.dll
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Logica.pdb
+G:\Obligatorio\Obligatorio Lu\Funcionarios\bin\Persistencia.pdb
+G:\Obligatorio\Obligatorio Lu\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Obligatorio Dano\Funcionarios\bin\Funcionarios.dll
+G:\Obligatorio Dano\Funcionarios\bin\Funcionarios.pdb
+G:\Obligatorio Dano\Funcionarios\bin\EntidadesCompartidas.dll
+G:\Obligatorio Dano\Funcionarios\bin\Logica.dll
+G:\Obligatorio Dano\Funcionarios\bin\Persistencia.dll
+G:\Obligatorio Dano\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\Obligatorio Dano\Funcionarios\bin\Logica.pdb
+G:\Obligatorio Dano\Funcionarios\bin\Persistencia.pdb
+G:\Obligatorio Dano\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\Obligatorio Dano\Funcionarios\obj\Debug\Funcionarios.dll
+G:\Obligatorio Dano\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Funcionarios.dll
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Logica.dll
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Persistencia.dll
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Logica.pdb
+G:\Lucia\2017\Obligatorio\Funcionarios\bin\Persistencia.pdb
+G:\Lucia\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\Lucia\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+G:\Lucia\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Funcionarios.dll
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Logica.dll
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Persistencia.dll
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Logica.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\bin\Persistencia.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Funcionarios.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Funcionarios.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Logica.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Logica.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.pdb
+F:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.dll
+F:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.pdb
+F:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.dll
+F:\ObligatorioLINQ\Funcionarios\bin\Logica.dll
+F:\ObligatorioLINQ\Funcionarios\bin\Persistencia.dll
+F:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ\Funcionarios\bin\Logica.pdb
+F:\ObligatorioLINQ\Funcionarios\bin\Persistencia.pdb
+F:\ObligatorioLINQ\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.dll
+F:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.pdb
+D:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.dll
+D:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.pdb
+D:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.dll
+D:\ObligatorioLINQ\Funcionarios\bin\Logica.dll
+D:\ObligatorioLINQ\Funcionarios\bin\Persistencia.dll
+D:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.pdb
+D:\ObligatorioLINQ\Funcionarios\bin\Logica.pdb
+D:\ObligatorioLINQ\Funcionarios\bin\Persistencia.pdb
+D:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+D:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.dll
+D:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.dll
+G:\ObligatorioLINQ\Funcionarios\bin\Funcionarios.pdb
+G:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.dll
+G:\ObligatorioLINQ\Funcionarios\bin\Logica.dll
+G:\ObligatorioLINQ\Funcionarios\bin\Persistencia.dll
+G:\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\ObligatorioLINQ\Funcionarios\bin\Logica.pdb
+G:\ObligatorioLINQ\Funcionarios\bin\Persistencia.pdb
+G:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.dll
+G:\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Funcionarios.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Funcionarios.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.pdb
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.dll
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.pdb
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.dll
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.dll
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.pdb
+E:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.pdb
+E:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+E:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.dll
+E:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.pdb
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.dll
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Funcionarios.pdb
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.dll
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.dll
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Logica.pdb
+F:\ObligatorioLINQ_Respaldo\Funcionarios\bin\Persistencia.pdb
+F:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.dll
+F:\ObligatorioLINQ_Respaldo\Funcionarios\obj\Debug\Funcionarios.pdb
+G:\ObligatorioULTIMO\Funcionarios\bin\Funcionarios.dll
+G:\ObligatorioULTIMO\Funcionarios\bin\Funcionarios.pdb
+G:\ObligatorioULTIMO\Funcionarios\bin\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\Funcionarios\bin\Logica.dll
+G:\ObligatorioULTIMO\Funcionarios\bin\Persistencia.dll
+G:\ObligatorioULTIMO\Funcionarios\bin\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\Funcionarios\bin\Logica.pdb
+G:\ObligatorioULTIMO\Funcionarios\bin\Persistencia.pdb
+G:\ObligatorioULTIMO\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+G:\ObligatorioULTIMO\Funcionarios\obj\Debug\Funcionarios.dll
+G:\ObligatorioULTIMO\Funcionarios\obj\Debug\Funcionarios.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Funcionarios.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Funcionarios.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Logica.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Persistencia.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Logica.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Persistencia.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Funcionarios.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Funcionarios.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Logica.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Logica.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Funcionarios.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Funcionarios.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Logica.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Logica.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Funcionarios.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Funcionarios.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Logica.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Persistencia.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Logica.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\bin\Persistencia.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Funcionarios.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+C:\Users\jose.duarte\Desktop\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Funcionarios.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Logica.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Persistencia.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Logica.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\bin\Persistencia.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Funcionarios.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Logica.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Logica.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\bin\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\obj\Debug\Funcionarios.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Funcionarios\obj\Debug\Funcionarios.pdb

@@ -1,0 +1,182 @@
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\DanoFKU\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\bin\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\bin\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\obj\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio Ultimo\Persistencia\obj\Debug\Persistencia.pdb
+F:\Lucia\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+F:\Lucia\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+F:\Lucia\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+F:\Lucia\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+F:\Lucia\Obligatorio\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+F:\Lucia\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+F:\Lucia\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+G:\Lucia\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+G:\Lucia\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+G:\Lucia\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\Lucia\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\Lucia\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\Lucia\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+G:\Lucia\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\A\Downloads\Obligatorio-Lu\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\A\Desktop\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.pdb
+G:\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+G:\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.dll
+G:\Obligatorio\Obligatorio Lu\Persistencia\obj\Debug\Persistencia.pdb
+G:\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.dll
+G:\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\Persistencia.pdb
+G:\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\Obligatorio\Obligatorio Lu\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio Dano\Persistencia\bin\Debug\Persistencia.dll
+G:\Obligatorio Dano\Persistencia\bin\Debug\Persistencia.pdb
+G:\Obligatorio Dano\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\Obligatorio Dano\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\Obligatorio Dano\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\Obligatorio Dano\Persistencia\obj\Debug\Persistencia.dll
+G:\Obligatorio Dano\Persistencia\obj\Debug\Persistencia.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\Lucia\BIOS\2017\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.pdb
+F:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.dll
+F:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.pdb
+F:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.dll
+F:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.pdb
+D:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.dll
+D:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.pdb
+D:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.dll
+D:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.pdb
+G:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.dll
+G:\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.pdb
+G:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.dll
+G:\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio\juntosDaniLuJose\ObligatorioLINQ\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\A\Desktop\final\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.pdb
+E:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.dll
+E:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.pdb
+E:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.dll
+E:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.pdb
+F:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+F:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.dll
+F:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.dll
+F:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\Persistencia.pdb
+F:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+F:\ObligatorioLINQ_Respaldo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+F:\ObligatorioLINQ_Respaldo\Persistencia\obj\Debug\Persistencia.pdb
+G:\ObligatorioULTIMO\Persistencia\bin\Debug\Persistencia.dll
+G:\ObligatorioULTIMO\Persistencia\bin\Debug\Persistencia.pdb
+G:\ObligatorioULTIMO\Persistencia\bin\Debug\EntidadesCompartidas.dll
+G:\ObligatorioULTIMO\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+G:\ObligatorioULTIMO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\ObligatorioULTIMO\Persistencia\obj\Debug\Persistencia.dll
+G:\ObligatorioULTIMO\Persistencia\obj\Debug\Persistencia.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\Persistencia.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\Persistencia.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.dll
+E:\Obligatorio 2017 01\DIAGRAMAS\Obligatorio ULTIMO al 04.08.2017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 04.08.2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\SunTze\Desktop\Obligatorio ULTIMO al 05082017\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\prueba\Desktop\Obligatorio ULTIMO al 06.08.2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sistemas\AppData\Local\Temp\Obligatorio Carcamo_Piñeyro_Duarte\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb

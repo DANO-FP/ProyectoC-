@@ -1,0 +1,326 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Entidades;
+
+namespace Controles
+{
+    public class Compositive : WebControl, INamingContainer
+    {
+        private Label Titulo;
+        private Label Padron;
+        private Label Precio;
+        private Label Baños;
+        private Label Habitantes;
+        private Label MT2;
+        private Label Direccion;
+        private Label Accion;
+        private Label Departamento;
+        private Label Usuario;
+        private Label Piso;
+        private Label Ascensor;
+        private Label habilitacion;
+        private Label Metros2;
+        private Label Poj;
+        private Label txtPadron;
+        private Label txtPrecio;
+        private Label txtBaños;
+        private Label txtHabitantes;
+        private Label txtMT2;
+        private Label txtDireccion;
+        private Label txtAccion;
+        private Label txtDepartamento;
+        private Label txtUsuario;
+        private Label txtPiso;
+        private Label ChkAscensor;
+        private Label Chkhabilitacion;
+        private Label txtMetros2;
+        private Label ChkPoj;
+        private Panel Panel;
+
+        protected override void CreateChildControls()
+        {
+            base.CreateChildControls();
+            
+            Panel = new Panel();
+            Panel.Controls.Add(new LiteralControl("<table>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Titulo = new Label();
+            Titulo.Text = "Consulta De Propiedades";
+            Titulo.CssClass = "Title";
+            Panel.Controls.Add(Titulo);
+            Panel.Controls.Add(new LiteralControl("</br>"));
+            Panel.Controls.Add(new LiteralControl("</br>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Padron = new Label();
+            Padron.Text = "Padron";
+            Padron.CssClass = "Names";
+            Panel.Controls.Add(Padron);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtPadron = new Label();
+            txtPadron.Text = "";
+            txtPadron.CssClass = "Names";
+            Panel.Controls.Add(txtPadron);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Precio = new Label();
+            Precio.Text = "Precio";
+            Precio.CssClass = "Names";
+            Panel.Controls.Add(Precio);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtPrecio = new Label();
+            txtPrecio.Text = "";
+            txtPrecio.CssClass = "Names";
+            Panel.Controls.Add(txtPrecio);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Baños = new Label();
+            Baños.Text = "Baños";
+            Baños.CssClass = "Names";
+            Panel.Controls.Add(Baños);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtBaños = new Label();
+            txtBaños.Text = "";
+            txtBaños.CssClass = "Names";
+            Panel.Controls.Add(txtBaños);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Habitantes = new Label();
+            Habitantes.Text = "Habitantes";
+            Habitantes.CssClass = "Names";
+            Panel.Controls.Add(Habitantes);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtHabitantes = new Label();
+            txtHabitantes.Text = "";
+            txtHabitantes.CssClass = "Names";
+            Panel.Controls.Add(txtHabitantes);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            MT2 = new Label();
+            MT2.Text = "BT2";
+            MT2.CssClass = "Names";
+            Panel.Controls.Add(MT2);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtMT2 = new Label();
+            txtMT2.Text = "";
+            txtMT2.CssClass = "Names";
+            Panel.Controls.Add(txtMT2);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Direccion = new Label();
+            Direccion.Text="Direccion";
+            Direccion.CssClass = "Names";
+            Panel.Controls.Add(Direccion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtDireccion = new Label();
+            txtDireccion.Text = "";
+            txtDireccion.CssClass = "Names";
+            Panel.Controls.Add(txtDireccion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Accion=new Label();
+            Accion.Text="Accion";
+            Accion.CssClass = "Names";
+            Panel.Controls.Add(Accion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtAccion = new Label();
+            txtAccion.Text = "";
+            txtAccion.CssClass = "Names";
+            Panel.Controls.Add(txtAccion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Departamento=new Label();
+            Departamento.Text="Departamento";
+            Departamento.CssClass = "Names";
+            Panel.Controls.Add(Departamento);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtDepartamento = new Label();
+            txtDepartamento.Text = "";
+            txtDepartamento.CssClass = "Names";
+            Panel.Controls.Add(txtDepartamento);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Usuario=new Label();
+            Usuario.Text="Usuario";
+            Usuario.CssClass = "Names";
+            Panel.Controls.Add(Usuario);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtUsuario = new Label();
+            txtUsuario.Text = "";
+            txtUsuario.CssClass = "Names";
+            Panel.Controls.Add(txtUsuario);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Piso = new Label();
+            Piso.Text = "Piso";
+            Piso.CssClass = "Names";
+            Panel.Controls.Add(Piso);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtPiso = new Label();
+            txtPiso.Text = "";
+            txtPiso.CssClass = "Names";
+            Panel.Controls.Add(txtPiso);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Ascensor = new Label();
+            Ascensor.Text = "Ascensor";
+            Ascensor.CssClass = "Names";
+            Panel.Controls.Add(Ascensor);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            ChkAscensor = new Label();
+            Panel.Controls.Add(ChkAscensor);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            habilitacion = new Label();
+            habilitacion.Text = "Habilitacion";
+            habilitacion.CssClass = "Names";
+            Panel.Controls.Add(habilitacion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Chkhabilitacion = new Label();
+            Panel.Controls.Add(Chkhabilitacion);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Metros2 = new Label();
+            Metros2.Text = "Metros 2";
+            Metros2.CssClass = "Names";
+            Panel.Controls.Add(Metros2);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            txtMetros2 = new Label();
+            txtMetros2.Text = "";
+            txtMetros2.CssClass = "Names";
+            Panel.Controls.Add(txtMetros2);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("<tr>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            Poj = new Label();
+            Poj.Text = "Patio o Jardin";
+            Poj.CssClass = "Names";
+            Panel.Controls.Add(Poj);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("<td>"));
+            ChkPoj = new Label();
+            Panel.Controls.Add(ChkPoj);
+            Panel.Controls.Add(new LiteralControl("</td>"));
+            Panel.Controls.Add(new LiteralControl("</tr>"));
+            Panel.Controls.Add(new LiteralControl("</table>"));
+            this.Controls.Add(Panel);
+        }
+
+public Apartamento UnaApa
+{
+     set 
+     {
+         EnsureChildControls();
+         txtPadron.Text=value.Padron.ToString();
+         txtPrecio.Text = value.Precio.ToString();
+         txtBaños.Text = value.CantBaños.ToString();
+         txtHabitantes.Text = value.CantHabit.ToString();
+         txtMT2.Text = value.Mt2Ed.ToString();
+         txtDireccion.Text = value.Direccion.ToString();
+         txtAccion.Text = value.Accion.ToString();
+         txtDepartamento.Text = value.Departamento.NombreOficial.ToString();
+         txtUsuario.Text = value.Usuario.Nombre.ToString();
+         txtPiso.Text=value.Piso.ToString();
+         ChkAscensor.Text=value.Ascensor.ToString();
+         txtMetros2.Visible = false;
+         ChkPoj.Visible = false;
+         Chkhabilitacion.Visible = false;
+         Metros2.Visible = false;
+         habilitacion.Visible = false;
+         Poj.Visible = false;
+     }
+}
+public Casa UnaCas
+{
+    set
+    {
+        EnsureChildControls();
+        txtPadron.Text = value.Padron.ToString();
+        txtPrecio.Text = value.Precio.ToString();
+        txtBaños.Text = value.CantBaños.ToString();
+        txtHabitantes.Text = value.CantHabit.ToString();
+        txtMT2.Text = value.Mt2Ed.ToString();
+        txtDireccion.Text = value.Direccion.ToString();
+        txtAccion.Text = value.Accion.ToString();
+        txtDepartamento.Text = value.Departamento.NombreOficial.ToString();
+        txtUsuario.Text = value.Usuario.Nombre.ToString();
+        txtMetros2.Text=value.Mt2Terr.ToString();
+        ChkPoj.Text = value.Patio.ToString();
+        txtPiso.Visible = false;
+        ChkAscensor.Visible = false;
+        Chkhabilitacion.Visible = false;
+        Piso.Visible = false;
+        Ascensor.Visible = false;
+        habilitacion.Visible = false;
+    }
+}
+public LocalComercial UnaLoc
+{
+    set
+    {
+        EnsureChildControls();
+        txtPadron.Text = value.Padron.ToString();
+        txtPrecio.Text = value.Precio.ToString();
+        txtBaños.Text = value.CantBaños.ToString();
+        txtHabitantes.Text = value.CantHabit.ToString();
+        txtMT2.Text = value.Mt2Ed.ToString();
+        txtDireccion.Text = value.Direccion.ToString();
+        txtAccion.Text = value.Accion.ToString();
+        txtDepartamento.Text = value.Departamento.NombreOficial.ToString();
+        txtUsuario.Text = value.Usuario.Nombre.ToString();
+        Chkhabilitacion.Text = value.Habilitacion.ToString();
+        txtMetros2.Visible = false;
+        ChkPoj.Visible = false;
+        txtPiso.Visible = false;
+        ChkAscensor.Visible = false;
+        MT2.Visible = false;
+        Poj.Visible = false;
+        Ascensor.Visible = false;
+        Piso.Visible = false;
+    }
+}
+}
+}
