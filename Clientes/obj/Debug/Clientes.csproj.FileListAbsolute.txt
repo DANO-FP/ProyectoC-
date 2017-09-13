@@ -271,3 +271,55 @@ D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\bin\Pe
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.dll
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Clientes\obj\Debug\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\obj\Debug\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Clientes\obj\Debug\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Clientes.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\bin\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\obj\Debug\Clientes.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Clientes\obj\Debug\Clientes.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Clientes.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Clientes.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Controles.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Logica.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Persistencia.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Controles.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Logica.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\bin\Persistencia.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Clientes.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Clientes.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Controles.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Logica.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Persistencia.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Controles.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Logica.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\bin\Persistencia.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Clientes\obj\Debug\Clientes.pdb

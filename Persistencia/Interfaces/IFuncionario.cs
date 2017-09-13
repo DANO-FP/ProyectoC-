@@ -13,6 +13,6 @@ namespace Persistencia
         void ModificarFuncionario(Funcionario F);
         Funcionario BuscarFuncionario(string F);
         List<Funcionario> ListarFuncionario();
-        Funcionario Logueo(string F, string P, string P1);
+        Funcionario Logueo(string F, string P);
     }
 }

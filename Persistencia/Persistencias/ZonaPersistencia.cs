@@ -155,6 +155,10 @@ namespace Persistencia
                 }
                 else if (Retorno == -3)
                 {
+                    throw new Exception("La Zona no se puede eliminar por tener una propiedad asociada. ");
+                }
+                else if (Retorno == -4)
+                {
                     throw new Exception("La Zona no se puede eliminar ocurrión un error. ");
                 }
             }

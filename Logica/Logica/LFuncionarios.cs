@@ -37,10 +37,10 @@ namespace Logica
             IFuncionario Funcionario = Persistencia.PFabrica.GetInstanciaFuncionario();
             Funcionario.EliminarFuncionario(F);
         }
-        public Funcionario Logueo (string F,string P,string P1)
+        public Funcionario Logueo (string F,string P)
         {
             IFuncionario Funcionario =Persistencia.PFabrica.GetInstanciaFuncionario();
-            return Funcionario.Logueo(F,P,P1);
+            return Funcionario.Logueo(F,P);
         }
         public Funcionario BuscarFuncionario(string F)
         {

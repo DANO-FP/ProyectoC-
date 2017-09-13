@@ -110,7 +110,7 @@
         <asp:Repeater ID="rtPropiedad" runat="server" onitemcommand="Repeater1_ItemCommand">
              <ItemTemplate>
                   <table class="rep">
-                         <tr bgcolor="#81F781">
+                         <tr bgcolor="#b49e84">
                          <td>
                          Padron: <asp:TextBox ID = "txtPadron" class="TextBox" runat = "server" Text ='<%#Bind("Padron") %>'></asp:TextBox>
                          <br />
@@ -120,7 +120,7 @@
                          <br />
                          </td>
                          <td>
-                         Departamento: <asp:TextBox ID = "txtDpto" class="TextBox" runat = "server" Text ='<%#Bind("Departamento.NombreDep") %>'></asp:TextBox>
+                         Departamento: <asp:TextBox ID = "txtDpto" class="TextBox" runat = "server" Text ='<%#Bind("Departamento.NombreOficial") %>'></asp:TextBox>
                          <br />
                          </td>
                          <td>
@@ -139,7 +139,7 @@
               </ItemTemplate>
                   <AlternatingItemTemplate>
                      <table class="rep">
-                        <tr bgcolor="#e6ffff">
+                        <tr bgcolor="#e1d3c1">
                         <td>
                         Padron: <asp:TextBox ID = "txtPadron" class="TextBox" runat = "server" Text ='<%#Bind("Padron") %>'></asp:TextBox>
                         <br />
@@ -149,7 +149,7 @@
                         <br />
                         </td>
                         <td>
-                        Departamento: <asp:TextBox ID = "txtDpto" class="TextBox" runat = "server" Text ='<%#Bind("Departamento.NombreDep") %>'></asp:TextBox>
+                        Departamento: <asp:TextBox ID = "txtDpto" class="TextBox" runat = "server" Text ='<%#Bind("Departamento.NombreOficial") %>'></asp:TextBox>
                         <br />
                         </td>
                         <td>

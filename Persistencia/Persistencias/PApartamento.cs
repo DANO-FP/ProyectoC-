@@ -224,6 +224,7 @@ namespace Persistencia
                         apto = new Apartamento(padron, precio, cantBaños, cantHabit, mt2Ed, direccion, accion, departamento, usuario, piso, ascensor);
                         lista.Add(apto);
                     }
+
                     lector.Close();
                 }
             }

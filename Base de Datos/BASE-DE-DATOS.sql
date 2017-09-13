@@ -1,3 +1,11 @@
+/*
+16092017 
+sacamos las vistas de zona y funcionarios inactivos y modificamos los SP
+modificamos el sp eliminar propiedad pasando eliminar visita primero y después eliminar las propiedades
+Controlamos que en baja de zona no existan propiedades antes de eliminar 
+Modificamos los SP de propiedades utilizando las vistas
+*/
+
 use master
 go
 
@@ -6,6 +14,7 @@ BEGIN
 	DROP DATABASE Inmobiliaria
 END
 go
+
 
 CREATE DATABASE Inmobiliaria
 ON
@@ -39,6 +48,8 @@ FOREIGN KEY (acronZona, departamento) REFERENCES Zona(acronZona, departamento),
 PRIMARY KEY(acronZona, departamento, nombreServicio)
 )
 GO
+
+
 
 CREATE TABLE Empleado(
 empUsuario varchar(50) not null,
@@ -142,44 +153,39 @@ CREATE VIEW ZonaActiva AS
 SELECT * FROM Zona WHERE bajaLogica = 0
 GO
 
---VISTA TRABAJAR CON ZONAS INACTIVA
-CREATE VIEW ZonaInactiva AS
-SELECT * FROM Zona WHERE bajaLogica = 1
-GO
-
 --VISTA TRABAJA CON EMPLEADOS ACTIVOS
 CREATE VIEW EmpleadoActivo AS
 SELECT * FROM Empleado WHERE empEliminado = 0
 GO
 
---VISTA TRABAJA CON EMPLEADOS INACTIVOS
-CREATE VIEW EmpleadoINActivo AS
-SELECT * FROM Empleado WHERE empEliminado = 1
-GO
 --«««««««««««««««««««««« FIN VISTAS »»»»»»»»»»»»»»»»»»»»--
 
 
 --«««««««««««««««««««««««««««««««««««  PROPIEDADES »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 --««««««««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 --Buscar casa
-CREATE PROC BuscarCasa @padron int AS
-SELECT p.proPadron, p.proDireccion, p.proPrecio, p.proAccion, p.proCantBaños, p.proCantHabitaciones, 
-		p.proMt2Ed, p.zonDepartamento, p.zonAcronimo, p.proUsuario, c.casMt2Ter, c.casJardin
-FROM Casa c inner join Propiedades p on p.proPadron = c.casPadron
-WHERE @padron = c.casPadron
-go
---Buscar Locales
-CREATE PROC BuscarLocal @padron int AS
+CREATE PROC BuscarCasa 
+@padron int 
+AS
 SELECT *
-FROM Locales l inner join Propiedades p on p.proPadron=l.locPadron
-WHERE @padron = l.locPadron 
-go
+FROM InfoCasa WHERE proPadron = @padron
+GO
+
+--Buscar Locales
+CREATE PROC BuscarLocal @padron int 
+AS
+SELECT *
+FROM InfoLocal WHERE proPadron = @padron
+GO
+
 --Buscar apto
-CREATE PROC BuscarApto @padron int AS
-SELECT p.proPadron, p.proDireccion, p.proPrecio, p.proAccion, p.proCantBaños, p.proCantHabitaciones, p.proMt2Ed, p.zonDepartamento, p.zonAcronimo, p.proUsuario, c.apaPiso, c.apaAsc
-FROM Apartamento c inner join Propiedades p on p.proPadron = c.apaPadron
-WHERE @padron = c.apaPadron
-go
+CREATE PROC BuscarApto @padron int 
+AS
+SELECT *
+FROM InfoApartamento
+WHERE proPadron = @padron
+GO
+
 ----Alta Casa
 CREATE PROC AltaCasa 
 @padron int, 
@@ -527,6 +533,9 @@ BEGIN
 
 	declare @error int
 	begin tran
+		delete Visita where visPadron = @padron
+		set @error = @error + @@ERROR
+	
 		delete Apartamento where apaPadron = @padron
 		set @error = @@ERROR
 		
@@ -537,11 +546,6 @@ BEGIN
 		set @error = @error + @@ERROR
 		
 		delete Propiedades where proPadron = @padron
-		set @error = @error + @@ERROR
-		
-		--6) Se elimina al final el dato dependiente de la visita. ERROR. 
-		--PREGUNTAR
-		delete Visita where visPadron = @padron
 		set @error = @error + @@ERROR
 	
 	if(@error = 0)
@@ -565,7 +569,7 @@ go
 --Lista Zonas y las ordena por el departamento
 --------------------------------------------------------------------------------------
 --Busca una Zona
-CREATE PROCEDURE BuscarZona
+CREATE PROCEDURE BuscarZonaActiva
 @DEPARTAMENTO char(1),
 @ACRONIMO char(3)
 AS
@@ -573,6 +577,18 @@ BEGIN
 	SELECT * 
 	FROM ZonaActiva
 	WHERE ZonaActiva.departamento = @DEPARTAMENTO AND ZonaActiva.acronZona = @ACRONIMO 
+END
+GO
+-------------------------------------------------------------------------------------
+--Buscar Zonas en general 
+CREATE PROCEDURE BuscarZona
+@DEPARTAMENTO char(1),
+@ACRONIMO char(3)
+AS
+BEGIN
+	SELECT *
+	FROM Zona
+	WHERE departamento=@DEPARTAMENTO AND acronZona = @ACRONIMO
 END
 GO
 -------------------------------------------------------------------------------------
@@ -586,8 +602,8 @@ AS
 BEGIN
 	if(Exists(SELECT * FROM ZonaActiva WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO))
 	return -1
-	else if(Exists(SELECT * FROM ZonaInactiva WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO))
-	UPDATE ZonaInactiva SET bajaLogica = 0 WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO
+	else if(Exists(SELECT * FROM Zona WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO and bajaLogica = 1))
+	UPDATE Zona SET bajaLogica = 0 WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO
 	
 	INSERT INTO Zona (departamento, acronZona, nombreOficial, habitantes)
 	VALUES (@DEPARTAMENTO, @ACRONIMO, @NOMBREOFICIAL, @HABITANTES)
@@ -605,23 +621,26 @@ CREATE PROCEDURE BajaZona
 @ACRONIMO char(3)
 AS
 BEGIN
-	 if(Not Exists(SELECT * FROM Zona WHERE Zona.departamento = @DEPARTAMENTO and zona.acronZona = @ACRONIMO))
+	 if(Not Exists(SELECT * FROM Zona WHERE Zona.departamento = 
+	 @DEPARTAMENTO and zona.acronZona = @ACRONIMO))
 	 return -1
-	 else if(Exists(SELECT * FROM ZonaInactiva WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO))
+	 else if(Exists(SELECT * FROM Zona WHERE departamento = 
+	 @DEPARTAMENTO and acronZona = @ACRONIMO AND bajaLogica = 1))
 	 return -2
-	 else if(Exists(SELECT *
-	 FROM Propiedades
-	 WHERE Propiedades.zonAcronimo = @ACRONIMO and Propiedades.zonDepartamento = @DEPARTAMENTO))
-	 BEGIN
-	 UPDATE ZonaActiva SET bajaLogica = 1 WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO
-	 return 2
+	 else If(Exists(SELECT * From Propiedades WHERE zonAcronimo = @ACRONIMO and Propiedades.zonDepartamento = @DEPARTAMENTO ))
+	 return -3
+	 else if(Not Exists(SELECT *
+		 FROM Propiedades
+		 WHERE Propiedades.zonAcronimo = @ACRONIMO and Propiedades.zonDepartamento = @DEPARTAMENTO))
+		 BEGIN
+		 UPDATE ZonaActiva SET bajaLogica = 1 WHERE departamento = @DEPARTAMENTO and acronZona = @ACRONIMO
 	 END
 	 BEGIN TRANSACTION
 	 DELETE FROM ServicioZona WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO
 	 if(@@ERROR <> 0)
 	 BEGIN
 	 ROLLBACK TRANSACTION
-	 return -3
+	 return -4
 	 END
 	 DELETE FROM Zona WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO
 	 if(@@ERROR = 0)
@@ -641,7 +660,7 @@ AS
 BEGIN
 	if(Not Exists(SELECT * FROM Zona WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO))
 	return -1
-	if(Exists(SELECT * FROM ZonaInactiva WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO))
+	if(Exists(SELECT * FROM Zona WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO AND bajaLogica = 1))
 	return -2
 	UPDATE Zona SET nombreOficial = @NOMBREOFICIAL, habitantes = @HABITANTES 
 	WHERE departamento = @DEPARTAMENTO AND acronZona = @ACRONIMO
@@ -726,16 +745,25 @@ select * from Empleado where @empUsuario=empUsuario and @Password=empContraseña
 end
 go 
 --BUSCAR EMPLEADO
-Create procedure BuscarEmpleado 
+Create procedure BuscarEmpleadoActivo 
 @empUsuario varchar(50)
 as
 begin 
 if(not exists(Select * from EmpleadoActivo where @empUsuario=empUsuario))
 	return -1
 else
-	select * from EmpleadoActivo where @empUsuario=empUsuario
+	select * from Empleado where @empUsuario=empUsuario
 end
 go 
+
+Create procedure BuscarEmpleados @empUsuario varchar(50) as
+begin 
+	if(not exists(select * from Empleado where @empUsuario=empUsuario))
+	return -1
+	else
+	select * from Empleado where @empUsuario=empUsuario
+end
+go
 --------------------------------------------------------------------------------------
 --Alta Empleado
 Create procedure AltaEmpleado 
@@ -901,3 +929,19 @@ Exec AltaLocales 20, 'Legnani 258', 900, 'VENTA', 1, 2, 200, 'A', 'CAN', 'Usuari
 go
 Exec AltaLocales 21, 'Legnani 369', 800, 'VENTA', 1, 2, 200, 'A', 'STL', 'Usuario 1', true;  
 go
+
+insert into ServicioZona (acronZona, departamento, nombreServicio) values
+('ART', 'G', 'Corriente Eléctrica'),
+('ART', 'G', 'Agua corriente'),
+('ART', 'G', 'Abitab'),
+('ART', 'G', 'Supermercado Bohemia'),
+('ART', 'G', 'Banco República'),
+('ART', 'G', 'Red Pagos'),
+('MDO', 'S', 'Corriente Eléctrica'),
+('MDO', 'S', 'Agua corriente'),
+('CAN', 'A', 'Abitab'),
+('CAN', 'A', 'Supermercado Bohemia'),
+('CAN', 'A', 'Banco República'),
+('SJE', 'M', 'Red Pagos')
+
+select * from Zona

@@ -129,7 +129,7 @@ namespace Persistencia
             }
         }
 
-        public Funcionario Logueo(string F, string P, string P1)
+        public Funcionario Logueo(string F, string P)
         {
             string Usuario, Password;
             Funcionario Fu = null;
@@ -181,7 +181,7 @@ namespace Persistencia
             // bool Activo;
             Funcionario Fu = null;
             SqlConnection _cnn = new SqlConnection(Conexion.Con);
-            SqlCommand _cmd = new SqlCommand("BuscarEmpleado ", _cnn);
+            SqlCommand _cmd = new SqlCommand("BuscarEmpleadoActivo ", _cnn);
             _cmd.CommandType = CommandType.StoredProcedure;
             _cmd.Parameters.AddWithValue("@empUsuario", F);
             SqlParameter _retorno = new SqlParameter("@Retorno", SqlDbType.Int);
@@ -194,9 +194,9 @@ namespace Persistencia
                 _cnn.Open();
                 _Reader = _cmd.ExecuteReader();
 
-                int afectados = (int)_cmd.Parameters["@Retorno"].Value;
+               /* int afectados = (int)_cmd.Parameters["@Retorno"].Value;
                 if (afectados == -1)
-                    throw new Exception("No se encontro el empleado");
+                    throw new Exception("No se encontro el empleado");*/
 
                 if (_Reader.HasRows)
                 {

@@ -82,3 +82,31 @@ D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\bin\D
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.dll
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Controles\obj\Debug\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\bin\Debug\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\bin\Debug\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\obj\Debug\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Controles\obj\Debug\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\bin\Debug\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\bin\Debug\Controles.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\obj\Debug\Controles.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Controles\obj\Debug\Controles.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\bin\Debug\Controles.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\bin\Debug\Controles.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Controles\obj\Debug\Controles.pdb

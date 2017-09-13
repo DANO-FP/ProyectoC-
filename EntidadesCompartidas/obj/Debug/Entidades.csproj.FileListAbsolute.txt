@@ -108,3 +108,22 @@ D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompar
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\EntidadesCompartidas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

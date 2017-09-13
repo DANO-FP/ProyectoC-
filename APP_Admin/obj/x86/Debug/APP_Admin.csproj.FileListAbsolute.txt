@@ -1,0 +1,48 @@
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\APP_Admin.exe
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\APP_Admin.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.exe
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.exe
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\APP_Admin.exe
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\APP_Admin.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Logica.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Persistencia.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Persistencia.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Logica.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.exe
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\APP_Admin.exe
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\APP_Admin.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache

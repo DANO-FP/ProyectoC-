@@ -6,7 +6,7 @@
 body 
 {
     height:100%;
-    background-color:#2E8B57;
+    background-color:#fbefdf;
     text-align:center;
     font-family:Arial Baltic;
     font-size:15px;
@@ -18,7 +18,7 @@ body
     text-align:center;
     padding:5px;
     min-width:200px;
-    background-color:#00FF7F;
+    background-color:#e1d3c1;
     border-radius: 10px;
     border-style:none;
     font-family:Arial Black;
@@ -28,12 +28,12 @@ body
 {
     font-size:40px;
     font-family:Georgia;
-    color:#81F781;
+    color:#b49e84;
     }
 .Names
 {
     text-align:right;
-    color: #81F781;
+    color: #b49e84;
     font-size:20;
     font-family: Arial Black;
     }
@@ -66,7 +66,7 @@ body
      border-color:Black;
      border-style:solid;
      border-width:15px;
-     background-color:#0B6121;
+     background-color:#e1d3c1;
      border-radius:50px;
      display:none;
          }
@@ -101,7 +101,7 @@ body
      }
  #rtPropiedad,.btnCar
  {
-     background-color:#00FF7F;
+     background-color:#e1d3c1;
      font-family:Arial;
      font-weight:600;
      }

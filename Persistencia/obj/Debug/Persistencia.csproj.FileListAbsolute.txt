@@ -180,3 +180,31 @@ D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\bi
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Persistencia\obj\Debug\Persistencia.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\bin\Debug\Persistencia.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\bin\Debug\Persistencia.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Persistencia\obj\Debug\Persistencia.pdb

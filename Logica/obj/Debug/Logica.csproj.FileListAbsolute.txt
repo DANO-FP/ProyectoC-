@@ -232,3 +232,39 @@ D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Logica\bin\Debu
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Logica\obj\Debug\Logica.dll
 D:\Documentos\Bios\2017\Obligatorio ultimo arreglado\Obligatorio\Logica\obj\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\obj\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC-\Logica\obj\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\obj\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\Logica\obj\Debug\Logica.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\Logica.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\Logica.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\Persistencia.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\bin\Debug\Persistencia.pdb
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.dll
+E:\OBLIGATORIO PARA ENTREGAR VERSIÓN FINAL\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\19_09_2017\ProyectoC\Logica\obj\Debug\Logica.pdb

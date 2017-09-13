@@ -1,0 +1,2 @@
+principal #fbefdf
+interno  #e1d3c1
